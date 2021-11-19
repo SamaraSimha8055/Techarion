@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Techarion</string>
+    <string name="home_icon">home icon</string>
+    <string name="in">in</string>
+    <string name="hwy_carthage">Hwy, Carthage</string>
+    <string name="middle_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin</string>
+    <string name="homer_j_allen">Homer J. Allen</string>
+    <string name="city_office">City, Office</string>
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="_45_likes">45 likes</string>
+    <string name="_12_comments">12 Comments</string>
+    <string name="_12h_ago">12h ago</string>
+    <string name="lillie_hoyos">Lillie Hoyos</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    </string>
+    <string name="all_post">All post</string>
+    <string name="toggle">toggle</string>
+    <string name="emma_richmond">Emma Richmond</string>
+    <string name="thumb_up">thumb up</string>
+    <string name="_12_likes">12 likes</string>
+    <string name="text_sms">text sms</string>
+    <string name="_4_comments">4 Comments</string>
+    <string name="_3h_ago">3h ago</string>
+    <string name="image">image</string>
+    <string name="easthampton_ma">Easthampton, MA</string>
+    <string name="_1k_likes">1k likes</string>
+    <string name="_1_2k_comments">1.2k Comments</string>
+    <string name="_24h_ago">24h ago</string>
+    <string name="profile">profile</string>
+    <string name="search_post">Search post</string>
+    <string name="close">close</string>
+    <string name="company">Company</string>
+    <string name="name">Name</string>
+    <string name="phone_number">phone number</string>
+    <string name="phone_type">Phone Type</string>
+    <string name="email_id">email id</string>
+    <string name="email">Email</string>
+    <string name="email_type">Email Type</string>
+    <string name="location">location</string>
+    <string name="address">Address</string>
+    <string name="domain">domain</string>
+    <string name="title">Title</string>
+    <string name="public_domain">public domain</string>
+    <string name="website">Website</string>
+    <string name="form">form</string>
+    <string name="click_button_to_add_new_post">Click button to add new post</string>
+    <string name="david_park">David Park</string>
+    <string name="post">POST</string>
+    <string name="write_something">Write something …</string>
+    <string name="photo">photo</string>
+    <string name="link">link</string>
+    <string name="description">description</string>
+    <string name="more">more</string>
+    <string name="add">add</string>
+</resources>
